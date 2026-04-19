@@ -86,6 +86,8 @@ It demonstrates my ability to:
 ---
 
 ## 📸 Dashboard Preview
+https://app.powerbi.com/view?r=eyJrIjoiOTUwNzRiMjUtNjQ3NC00ZTM0LTgzN2EtNzM3NTAwNDdjZjc4IiwidCI6IjU5NWM5Y2UxLTMwMWMtNDZkYS1hYWRlLThiNGYxY2YzMTk4ZSJ9
+
 > ![Dashboard Screenshot](
 https://github.com/ashes-analyst/Education-Project-Dashboard/blob/main/Education%20project%20dashboard%20screen%20shot.jpg)*
 
